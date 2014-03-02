@@ -1,4 +1,4 @@
-(defproject texhyphclj "0.1.0-SNAPSHOT"
+(defproject texhyphclj "0.1.0"
   :description "Clojure wrapper for Texhyphj, a Java Hyphenation library."
   :url "http://github.com/myguidingstar/texhyphclj"
   :license {:name "Eclipse Public License"
