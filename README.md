@@ -2,6 +2,10 @@
 
 Clojure wrapper for Texhyphj, a Java Hyphenation library.
 
+## Installation
+
+![Latest version](https://clojars.org/texhyphclj/latest-version.svg)
+
 ## Usage
 
 ```clojure
